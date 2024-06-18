@@ -12,7 +12,7 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Damien Bouchabou"
 description              : &description "personal description"
-url                      : https://dbouchabou.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dbouchabou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dbouchabou/dbouchabou.github.io"
 
@@ -24,7 +24,7 @@ author:
   avatar           : "DamienBouchabou.jpg"
   name             : "Damien Boucahbou"
   pronouns         : # example: "she/her"  
-  bio              : "AI Researcher"
+  bio              : "Smart Home AI Researcher"
   location         : "Rennes"
   employer         : "ENSTA Paris"
   uri              : # URL
@@ -32,11 +32,11 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=vtUIdqgAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-3623-3626"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
 
   # Repositories and software development
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/damien-bouchabou-5725329b"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
